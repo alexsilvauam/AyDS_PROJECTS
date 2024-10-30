@@ -1,0 +1,14 @@
+C:\Users\labc205\source\repos\PasoDeParametros\ayds_proyecto2\bin\Debug\ayds_proyecto2.exe.config
+C:\Users\labc205\source\repos\PasoDeParametros\ayds_proyecto2\bin\Debug\ayds_proyecto2.exe
+C:\Users\labc205\source\repos\PasoDeParametros\ayds_proyecto2\bin\Debug\ayds_proyecto2.pdb
+C:\Users\labc205\source\repos\PasoDeParametros\ayds_proyecto2\obj\Debug\ayds_proyecto2.csproj.AssemblyReference.cache
+C:\Users\labc205\source\repos\PasoDeParametros\ayds_proyecto2\obj\Debug\ayds_proyecto2.Properties.Resources.resources
+C:\Users\labc205\source\repos\PasoDeParametros\ayds_proyecto2\obj\Debug\ayds_proyecto2.csproj.GenerateResource.cache
+C:\Users\labc205\source\repos\PasoDeParametros\ayds_proyecto2\obj\Debug\ayds_proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\labc205\source\repos\PasoDeParametros\ayds_proyecto2\obj\Debug\ayds_proyecto2.exe
+C:\Users\labc205\source\repos\PasoDeParametros\ayds_proyecto2\obj\Debug\ayds_proyecto2.pdb
+C:\Users\labc205\source\repos\PasoDeParametros\ayds_proyecto2\bin\Debug\MetroFramework.Design.dll
+C:\Users\labc205\source\repos\PasoDeParametros\ayds_proyecto2\bin\Debug\MetroFramework.dll
+C:\Users\labc205\source\repos\PasoDeParametros\ayds_proyecto2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\labc205\source\repos\PasoDeParametros\ayds_proyecto2\obj\Debug\ayds_pro.000B2480.Up2Date
+C:\Users\labc205\source\repos\PasoDeParametros\ayds_proyecto2\obj\Debug\ayds_proyecto2.Form.resources
